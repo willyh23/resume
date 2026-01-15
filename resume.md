@@ -38,14 +38,14 @@ Summary of my role
 
 # Education
 
-## University of Washington (Seattle, Washington)
+## [University of Washington][] (Seattle, Washington)
 
 *A top-tier research university known for its innovation in Geographic Information Systems.*
 **B.A. in Geography (Data Science Track)**
 Expected Graduation: June 2026
 
 
-## Edmonds Community College (Edmonds, WA)
+## [Edmonds Community College][] (Edmonds, WA)
 **Associate of Arts**
 Sep 2019 - Oct 2022
 
