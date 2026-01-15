@@ -1,55 +1,54 @@
 # Willy Hung
 
-your.name@example.com
+[willyh1223@gmail.com](mailto: willyh1223@gmail.com)
 
-http://www.example.com
+![Profile Picture](./assets/profile_picture.jpg)
 
-http://www.linkedin.com/in/yourname
+[LinkedIn](http://www.linkedin.com/in/willy-hung)
+
+> "Geography is the canvas upon which the story of humanity is written." — *Reflection on GEOG 458*
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Senior at the University of Washington studying Geography: Data Science. Passionate about web GIS and creating equitable smart cities through spatial analysis.
 
-# Work Experience (only last 10 years)
+# Technical Skills 
+* **Languages:** Python, Java, R, HTML, SQL
+* **Software:** ArcGIS, QGIS, Power BI, Tableau, Figma
+* **Techniques:** Data Integration & Transformation, Research Methods, User-Centered Design
+
+# Work Experience 
+
+## Premera Blue Cross (Mountlake Terrace, WA)
+**Systems Analyst Intern** (Jun 2025 - Aug 2025)
+
+Summary of my role
+
+- Utilized Power BI connectors and Power Automate to link and export data from different systems
+- Designed visuals to tell a clear story and avoid misleading interpretations 
+- Automated dashboard refreshes to ensure seamless updates post-internship
+
+## Boiling Point (Edmonds, WA)
+**Server/Cook** (Sep 2021 - Present)
+
+Summary of my role
+
+- Deliver exceptional customer service, ensuring high satisfaction and repeat patronage in a face-paced dining environment 
+- Managed multiple tasks simultaneously, including serving customers, preparing dishes, and maintaining cleanliness, while adhering to strict food safety standards 
+
+# Education
 
 ## University of Washington (Seattle, Washington)
 
-* [University 1][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+*A top-tier research university known for its innovation in Geographic Information Systems.*
+**B.A. in Geography (Data Science Track)**
+Expected Graduation: June 2026
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+## Edmonds Community College (Edmonds, WA)
+**Associate of Arts**
+Sep 2019 - Oct 2022
+
+
+[University of Washington]: https://www.washington.edu/
+[Edmonds Community College]: https://www.edmonds.edu/
