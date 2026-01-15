@@ -2,7 +2,7 @@
 
 [willyh1223@gmail.com](mailto: willyh1223@gmail.com)
 
-![Profile Picture](./assets/profile_picture.jpg)
+![Profile Picture](assets/profile_picture.jpg)
 
 [LinkedIn](http://www.linkedin.com/in/willy-hung)
 
